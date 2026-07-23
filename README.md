@@ -34,6 +34,8 @@ cp .env.example .env
 ```
 Add your keys in `.env`:
 GEMINI_API_KEY=your_gemini_api_key
+
+
 GITHUB_TOKEN=your_github_token
 
 ### 4. Run backend
