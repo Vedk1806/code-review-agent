@@ -33,6 +33,8 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 Add your keys in `.env`:
+
+
 GEMINI_API_KEY=your_gemini_api_key
 
 
